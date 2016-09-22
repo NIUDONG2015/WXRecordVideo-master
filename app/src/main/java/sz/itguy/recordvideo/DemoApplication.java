@@ -1,4 +1,4 @@
-package sz.itguy.recordvideodemo;
+package sz.itguy.recordvideo;
 
 import android.app.Application;
 import android.content.Context;

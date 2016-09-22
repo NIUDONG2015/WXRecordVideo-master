@@ -1,4 +1,4 @@
-package sz.itguy.recordvideodemo;
+package sz.itguy.recordvideo;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,6 +13,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import sz.itguy.recordvideo.R;
 import sz.itguy.utils.FileUtil;
 import sz.itguy.wxlikevideo.camera.CameraHelper;
 import sz.itguy.wxlikevideo.recorder.RecordCallback;

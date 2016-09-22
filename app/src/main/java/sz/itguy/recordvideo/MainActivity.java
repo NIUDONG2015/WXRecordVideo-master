@@ -1,4 +1,4 @@
-package sz.itguy.recordvideodemo;
+package sz.itguy.recordvideo;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -20,7 +20,7 @@ import java.io.File;
 import java.io.IOException;
 import java.lang.ref.WeakReference;
 
-import sz.itguy.recordvideodemo.camera.CameraPreview;
+import sz.itguy.recordvideo.camera.CameraPreview;
 import sz.itguy.utils.FileUtil;
 import sz.itguy.wxlikevideo.camera.CameraHelper;
 

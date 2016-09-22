@@ -1,4 +1,4 @@
-package sz.itguy.recordvideodemo;
+package sz.itguy.recordvideo;
 
 import android.app.Activity;
 import android.graphics.Bitmap;

@@ -1,4 +1,4 @@
-package sz.itguy.recordvideodemo.camera;
+package sz.itguy.recordvideo.camera;
 
 import android.content.Context;
 import android.hardware.Camera;
