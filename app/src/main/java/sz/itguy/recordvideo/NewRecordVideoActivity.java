@@ -13,7 +13,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import sz.itguy.recordvideo.R;
 import sz.itguy.utils.FileUtil;
 import sz.itguy.wxlikevideo.camera.CameraHelper;
 import sz.itguy.wxlikevideo.recorder.RecordCallback;
@@ -30,9 +29,9 @@ public class NewRecordVideoActivity extends Activity implements View.OnTouchList
     private static final String TAG = "NewRecordVideoActivity";
 
     // 输出宽度
-    private static final int OUTPUT_WIDTH = 720;
+    private static final int OUTPUT_WIDTH = 480;
     // 输出高度
-    private static final int OUTPUT_HEIGHT = 400;
+    private static final int OUTPUT_HEIGHT = 360;
     // 宽高比
     private static final float RATIO = 1f * OUTPUT_WIDTH / OUTPUT_HEIGHT;
 

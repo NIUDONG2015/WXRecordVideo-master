@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "cn.itguy.recordvideodemo"
+        applicationId "cn.itguy.recordvideo"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
